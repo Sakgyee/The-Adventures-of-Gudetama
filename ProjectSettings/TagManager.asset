@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - xtrap1
+  - ytrap1
+  - onejump
+  - save
+  - fallingtrap
+  - plat
+  - platte
+  - Player 1
+  - start
+  - load
+  - fall
+  - boltR
+  - boltL
+  - Coin
+  - bf
+  - Boss
+  - bullet
+  - 1PsPos
+  - 2PsPos
+  - SpringJump
+  - Switch
+  - Rope
+  - PlayerClone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - trap
+  - plat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
